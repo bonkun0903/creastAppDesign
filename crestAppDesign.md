@@ -8,8 +8,8 @@
 
 - 商品の登録・編集・削除機能
 - 商品コメント登録・編集・削除機能
-- [商品ジャンルごとのタブ分け＆＆配送サイズごとのフィルター（一覧表示機能）](https://docs.google.com/spreadsheets/d/1CCfhtsdbCOP2Au_lwMvG9FRbsbBJtt4OBNNqlyF7p1g/edit#gid=1620229188&range=A55)
-- [商品登録、配送サイズ（グループ）決定機能](https://docs.google.com/spreadsheets/d/1CCfhtsdbCOP2Au_lwMvG9FRbsbBJtt4OBNNqlyF7p1g/edit#gid=1620229188&range=A4)
+- [商品ジャンルごとのタブ分け＆＆配送グループごとのフィルター（一覧表示機能）](https://docs.google.com/spreadsheets/d/1CCfhtsdbCOP2Au_lwMvG9FRbsbBJtt4OBNNqlyF7p1g/edit#gid=1620229188&range=A55)
+- ~~[商品登録時配送サイズ（グループ）決定機能](https://docs.google.com/spreadsheets/d/1CCfhtsdbCOP2Au_lwMvG9FRbsbBJtt4OBNNqlyF7p1g/edit#gid=1620229188&range=A4)~~
 - [商品画像の添付、表示順番の変更機能](https://docs.google.com/spreadsheets/d/1CCfhtsdbCOP2Au_lwMvG9FRbsbBJtt4OBNNqlyF7p1g/edit#gid=1620229188&range=A19)
 - [車両情報の自動紐付け機能](https://docs.google.com/spreadsheets/d/1CCfhtsdbCOP2Au_lwMvG9FRbsbBJtt4OBNNqlyF7p1g/edit#gid=1620229188)
 - [商品の情報入力補助機能](https://docs.google.com/spreadsheets/d/1CCfhtsdbCOP2Au_lwMvG9FRbsbBJtt4OBNNqlyF7p1g/edit#gid=1620229188&range=A4)
